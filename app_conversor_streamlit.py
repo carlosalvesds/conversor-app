@@ -1,1 +1,0 @@
-<código copiado da resposta anterior>
