@@ -12,7 +12,7 @@ from openpyxl.worksheet.table import Table, TableStyleInfo
 from openpyxl.utils import get_column_letter
 
 st.set_page_config(page_title="Extrator de Notas Fiscais", layout="centered")
-st.title("💾 Nota Fiscal Energia Elétrica | PDF / Excel")
+st.title("💾 NF Energia Elétrica | PDF / Excel")
 
 st.markdown("Envie múltiplos arquivos `.pdf` ou um `.zip` contendo vários PDFs.")
 
