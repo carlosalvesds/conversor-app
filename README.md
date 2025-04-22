@@ -41,7 +41,3 @@ streamlit run extrator_notas_fiscais.py
 ## 🌐 Deploy na Web
 
 Você pode implantar este projeto gratuitamente usando [Streamlit Cloud](https://streamlit.io/cloud).
-
----
-
-Desenvolvido com ❤️ usando Python + Streamlit.
